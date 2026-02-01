@@ -1,0 +1,21 @@
+# Lorentzian Classification Hybrid Trading Bot - Requirements
+# Install with: pip install -r requirements.txt
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# HTTP requests
+requests>=2.31.0
+
+# WebSocket
+websocket-client>=1.6.0
+
+# Async support
+asyncio>=3.4.3
+
+# Web server (for webhook mode)
+flask>=2.3.0
+
+# Additional utilities
+python-dateutil>=2.8.0
